@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">i xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="reset" android:id="@+id/reset"/>
+
+    <item android:title="Difficulty" android:id="@+id/size">
+
+    <menu>
+        <item android:title="easy" android:id="@+id/easy"/>
+        <item android:title="medium" android:id="@+id/medium"/>
+        <item android:title="difficult" android:id="@+id/difficult"/>
+    </menu>
+
+
+
+</item>
+
+
+
+</menu>
